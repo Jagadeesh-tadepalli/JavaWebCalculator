@@ -25,7 +25,6 @@
 <label>
 <input type="radio" name="r3" value="prod" />product
 <br />
-<br>
 </label>
 
  
